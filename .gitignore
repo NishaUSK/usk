@@ -4,7 +4,7 @@
 *.swo
 *.swp
 *.swn
-*.sqlite3
+*db.sqlite3
 
 # Directories #
 ###############
