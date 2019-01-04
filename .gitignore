@@ -1,19 +1,7 @@
-# File types #
-##############
 *.pyc
-*.swo
-*.swp
-*.swn
-db.sqlite3
-
-# Directories #
-###############
-logs/
-
-# OS generated files #
-######################
-.DS_Store?
-ehthumbs.db
-Icon?
-Thumbs.db
 *~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
